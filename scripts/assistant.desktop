@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=__NAME__
+Comment=Your AI assistant
+Exec=xdg-open http://127.0.0.1:5005
+Icon=utilities-terminal
+Categories=Utility;
